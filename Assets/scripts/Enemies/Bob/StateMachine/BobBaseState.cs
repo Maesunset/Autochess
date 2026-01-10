@@ -1,7 +1,8 @@
 using UnityEngine;
+
 public abstract class BobBaseState : ScriptableObject
 {
-    public BobTransition[] transitions;
+    public BobTransition[] Transitions;
     
     public virtual void EnterState(BobStateMachine stateMachine)
     {
@@ -20,9 +21,9 @@ public abstract class BobBaseState : ScriptableObject
 
     public void CheckTransition(BobStateMachine stateMachine)
     {
-        if (transitions.Length > 0)
+        if (Transitions.Length > 0)
         {
-            foreach (BobTransition transition in transitions)
+            foreach (BobTransition transition in Transitions)
             {
                 if (transition.condicion != null && transition.condicion.Check(stateMachine))
                 {

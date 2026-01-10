@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class BobAttackState : BobBaseState
+public class BobDanceState : BobBaseState
 {
     public override void EnterState(BobStateMachine stateMachine)
     {
