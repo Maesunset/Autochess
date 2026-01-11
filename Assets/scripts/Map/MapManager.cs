@@ -9,16 +9,13 @@ public class MapManager : MonoBehaviour
     {
         if (AllTilesList == null || AllTilesList.Count == 0)
         {
+            Debug.Log("No tiles found");
             return;
         }
-        foreach (var tile in AllTilesList)
+        else
         {
-            if (tile.sideTiles == null || tile.sideTiles.Count == 0)
-            {
-                Debug.LogWarning("Tile " + tile.name + " has empty sideTiles list!");
-            }
+            Debug.Log(AllTilesList.Count);
         }
-        
         List<MapTile> tempList = AStar(AllTilesList[Random.Range(0, AllTilesList.Count)], AllTilesList[Random.Range(0, AllTilesList.Count)]);
         {
             foreach (var tile in tempList)
