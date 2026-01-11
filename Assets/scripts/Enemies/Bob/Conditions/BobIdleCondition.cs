@@ -1,16 +1,9 @@
 using UnityEngine;
 
-public class BobIdleCondition : MonoBehaviour
+public class BobIdleCondition : BobBaseCondition
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public override bool Check(BobStateMachine stateMachine)
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        return false;
     }
 }

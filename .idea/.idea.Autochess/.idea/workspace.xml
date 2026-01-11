@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2729a8a-ba0f-499f-9969-60c7085b50bc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/BobBaseCondition.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/BobBaseCondition.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/BobBaseState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/BobBaseState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/BobStateMachine.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/BobStateMachine.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/States/BobAttackState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/States/BobAttackState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/States/BobIdleState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/States/BobIdleState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/States/BobPanicState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/States/BobPanicState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/States/BobSearchingState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/States/BobSearchingState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/States/BobWanderingState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/States/BobWanderingState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Autochess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Autochess/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/Conditions/BobAttackCondition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/Conditions/BobAttackCondition.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/Conditions/BobDanceCondition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/Conditions/BobDanceCondition.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/Conditions/BobIdleCondition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/Conditions/BobIdleCondition.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/Conditions/BobMovementCondition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Enemies/Bob/Conditions/BobMovementCondition.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +43,7 @@
 }]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.40f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.2.7f2\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\jared\OneDrive\Escritorio\7mo\IA\Autochess -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Users\jared\OneDrive\Escritorio\7mo\IA\Autochess" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -62,7 +54,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.40f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.2.7f2\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\jared\OneDrive\Escritorio\7mo\IA\Autochess -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Users\jared\OneDrive\Escritorio\7mo\IA\Autochess" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -109,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1765238829505</updated>
       <workItem from="1765238831232" duration="2000" />
-      <workItem from="1768087186497" duration="697000" />
+      <workItem from="1768087186497" duration="2494000" />
     </task>
     <servers />
   </component>
