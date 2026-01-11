@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e2729a8a-ba0f-499f-9969-60c7085b50bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Autochess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Autochess/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/Map/MapManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Map/MapManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/scripts/Map/MapTile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Map/MapTile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/Map/PlayerBench.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Map/PlayerBench.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +102,7 @@
       <workItem from="1765238831232" duration="2000" />
       <workItem from="1768087186497" duration="4303000" />
       <workItem from="1768103315453" duration="2325000" />
-      <workItem from="1768160213133" duration="2122000" />
+      <workItem from="1768160213133" duration="5769000" />
     </task>
     <servers />
   </component>
