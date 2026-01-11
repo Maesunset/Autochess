@@ -6,86 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e2729a8a-ba0f-499f-9969-60c7085b50bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Autochess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Autochess/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/ReadMe.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/ReadMe.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Scenes/Demo.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Scenes/Demo.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-001.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-001.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-001.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-002.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-002.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-002.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-003.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-003.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-003.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-004.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-004.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-004.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-005.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-005.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-005.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-006.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-006.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-006.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-007.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-007.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-007.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-008.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-008.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-008.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-009.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-009.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-009.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-010.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-010.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-010.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Free-010.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Hex World Tiles - Free.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Hex World Tiles - Free/Tiles/Hex World Tiles - Free.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/D12/D12.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/D12/D12.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/Material.001.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/Material.001.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/Planematerial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/Planematerial.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/Platformmaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/Platformmaterial.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/floor_tile_05_diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/floor_tile_05_diffuse.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/floor_tile_black.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/floor_tile_black.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/floor_tile_white.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/floor_tile_white.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/pillar_01_diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/pillar_01_diffuse.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/props_part_01_diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/props_part_01_diffuse.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/walls_tile_01_diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Materials/walls_tile_01_diffuse.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Meshes/jug_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Meshes/jug_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Meshes/jug_02.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Meshes/jug_02.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Meshes/pillar_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Meshes/pillar_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Meshes/wall_tile_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Meshes/wall_tile_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Textures/Materials/floor_tile_01_black.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Textures/Materials/floor_tile_01_black.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Textures/Materials/floor_tile_01_white.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extras/Sci-Fi Tomb/Textures/Materials/floor_tile_01_white.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Readme.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Readme.asset.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/URP.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/URP.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Layout.wlt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Layout.wlt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,20 +24,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.2.7f2\Editor\Unity.exe" />
@@ -178,7 +99,8 @@
       <updated>1765238829505</updated>
       <workItem from="1765238831232" duration="2000" />
       <workItem from="1768087186497" duration="4303000" />
-      <workItem from="1768103315453" duration="1729000" />
+      <workItem from="1768103315453" duration="2325000" />
+      <workItem from="1768160213133" duration="655000" />
     </task>
     <servers />
   </component>
