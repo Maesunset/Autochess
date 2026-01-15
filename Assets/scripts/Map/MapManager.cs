@@ -3,20 +3,16 @@ using UnityEngine;
 
 public class MapManager : MonoBehaviour
 {
-    public List<MapTile> AllTilesList;
+    public List<MapTile> allTiles = new List<MapTile>();
 
     private void Start()
     {
-        if (AllTilesList == null || AllTilesList.Count == 0)
+        if (allTiles == null || allTiles.Count == 0)
         {
             Debug.Log("No tiles found");
             return;
         }
-        else
-        {
-            Debug.Log(AllTilesList.Count);
-        }
-        List<MapTile> tempList = AStar(AllTilesList[Random.Range(0, AllTilesList.Count)], AllTilesList[Random.Range(0, AllTilesList.Count)]);
+        List<MapTile> tempList = AStar(allTiles[Random.Range(0, allTiles.Count)], allTiles[Random.Range(0, allTiles.Count)]);
         {
             foreach (var tile in tempList)
             {
@@ -34,7 +30,7 @@ public class MapManager : MonoBehaviour
         var gScore = new Dictionary<MapTile, float>();
         var fScore = new Dictionary<MapTile, float>();
 
-        foreach (var tile in AllTilesList)
+        foreach (var tile in allTiles)
         {
             gScore[tile] = Mathf.Infinity;
             fScore[tile] = Mathf.Infinity;
@@ -58,7 +54,7 @@ public class MapManager : MonoBehaviour
             openList.Remove(current);
             closedList.Add(current);
 
-            foreach (var neighbor in current.sideTiles)
+            foreach (var neighbor in current.neigbors)
             {
                 if (closedList.Contains(neighbor)) continue;
                 float tentativeG = gScore[current] + Distance(current, neighbor);
@@ -71,7 +67,6 @@ public class MapManager : MonoBehaviour
                 fScore[neighbor] = gScore[neighbor] + Heuristic(neighbor, goalTile);
             }
         }
-        Debug.LogWarning("No path found!");
         return null;
     }
 
@@ -81,17 +76,18 @@ public class MapManager : MonoBehaviour
     }
     private float Distance(MapTile a, MapTile b)
     {
+        Debug.Log(a + " " + b);
         return Vector3.Distance(a.transform.position, b.transform.position);
     }
     private List<MapTile> ReconstructPath(Dictionary<MapTile, MapTile> cameFrom, MapTile current)
     {
+        Debug.Log(cameFrom.Count + " " + current.gameObject.name);
         List<MapTile> totalPath = new List<MapTile> { current };
         while (cameFrom.ContainsKey(current))
         {
             current = cameFrom[current];
             totalPath.Insert(0, current);
         }
-        Debug.Log("Path found: " + string.Join(" -> ", totalPath));
         return totalPath;
     }
 }
