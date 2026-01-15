@@ -3,6 +3,6 @@ using UnityEngine;
 
 public class PlayerBench : MonoBehaviour
 {
-    public List<GameObject> neigbors;
+    public List<GameObject> PlayerBenchList;
     
 }

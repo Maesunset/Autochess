@@ -13,12 +13,11 @@ public class MapManager : MonoBehaviour
             return;
         }
         List<MapTile> tempList = AStar(allTiles[Random.Range(0, allTiles.Count)], allTiles[Random.Range(0, allTiles.Count)]);
+        Debug.Log(tempList.Count);
+        foreach (var tile in tempList)
         {
-            foreach (var tile in tempList)
-            {
-                Debug.Log(tile.gameObject.name);
-            }
-        }
+            Debug.Log(tile.gameObject.name);
+        }   
     }
 
     public List<MapTile> AStar(MapTile startTile, MapTile goalTile)
